@@ -1,0 +1,25 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+
+[packages]
+flask = "*"
+flask-sqlalchemy = "*"
+flask-restful = "*"
+flask-jwt-extended = "*"
+flask-migrate = "*"
+flask-marshmallow = "*"
+marshmallow = "==3.0.0rc2"
+marshmallow-sqlalchemy = "*"
+jsonify = "*"
+psycopg2 = "*"
+
+[requires]
+python_version = "3.7"
+
+[pipenv]
+allow_prereleases = true

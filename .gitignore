@@ -1,0 +1,11 @@
+AdlerLeo.API/.idea/
+AdlerLeo.API/.vscode/
+**/__pycache__/**
+AdlerLing/.idea/workspace.xml
+AdlerLing/.idea/vcs.xml
+AdlerLing/.idea/modules.xml
+AdlerLing/.idea/misc.xml
+AdlerLing/.idea/encodings.xml
+AdlerLing/.idea/AdlerLeo.API.iml
+AdlerLing.WebUI/node_modules
+AdlerLing.WebUI/dist
