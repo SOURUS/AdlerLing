@@ -1,3 +1,4 @@
 import NavBar from './NavBar';
+import PageLayout from './PageLayout';
 
-export { NavBar };
+export { NavBar, PageLayout };
